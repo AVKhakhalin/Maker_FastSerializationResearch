@@ -1,0 +1,2 @@
+rootProject.name = "CompareFastSerialization"
+include ':app'
